@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update Discord and Contributing Guide URLs (#9270)
