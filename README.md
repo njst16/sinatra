@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
