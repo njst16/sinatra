@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
