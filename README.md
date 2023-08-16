@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Clean up unused imgsz (#7771)
