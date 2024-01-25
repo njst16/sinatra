@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Merge pull request #22 from SkalskiP/patch-1
