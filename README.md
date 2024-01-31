@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
