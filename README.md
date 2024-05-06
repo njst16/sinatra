@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fix IS_PYTHON_3_12 bug (#9258)
