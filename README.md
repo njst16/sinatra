@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update CI.md with CI links (#8786)
